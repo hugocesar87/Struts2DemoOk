@@ -1,0 +1,11 @@
+Struts2 migrations links
+https://dzone.com/tutorials/java/struts-2/struts-2-example/struts-2-validation-example-1.html
+
+https://www.infoq.com/articles/converting-struts-2-part1
+https://www.infoq.com/articles/migrating-struts-2-part2
+https://www.infoq.com/articles/migrating-struts-2-part3
+
+
+https://www.mkyong.com/struts2/struts-2-url-tag-example/
+
+http://www.tutorials4u.net/struts2-tutorial/struts1_struts2_migration.html
