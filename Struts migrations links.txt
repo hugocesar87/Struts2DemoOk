@@ -1,11 +1,19 @@
 Struts2 migrations links
-https://dzone.com/tutorials/java/struts-2/struts-2-example/struts-2-validation-example-1.html
-
+migration.
 https://www.infoq.com/articles/converting-struts-2-part1
 https://www.infoq.com/articles/migrating-struts-2-part2
 https://www.infoq.com/articles/migrating-struts-2-part3
 
-
+Url tag examples.
 https://www.mkyong.com/struts2/struts-2-url-tag-example/
 
+Steps.
 http://www.tutorials4u.net/struts2-tutorial/struts1_struts2_migration.html
+
+Validation.
+https://dzone.com/tutorials/java/struts-2/struts-2-example/struts-2-validation-example-1.html
+https://struts.apache.org/maven/struts2-core/apidocs/com/opensymphony/xwork2/interceptor/ValidationAware.html
+https://www.javatpoint.com/struts-2-custom-validation-workflow-interceptor
+
+Interceptors.
+http://www.benmccann.com/struts-2-tutorial-interceptors/
