@@ -17,3 +17,6 @@ https://www.javatpoint.com/struts-2-custom-validation-workflow-interceptor
 
 Interceptors.
 http://www.benmccann.com/struts-2-tutorial-interceptors/
+
+Video para Itzel.
+https://www.facebook.com/cartoonnetworkmexico/videos/1740151642672789/
